@@ -48,7 +48,7 @@ Notre mission : **sublimer vos véhicules** tout en respectant l’environnement
 - **Frontend** : HTML, CSS, JavaScript (ou React/Vue)  
 - **Backend** : Node.js / Express (ou PHP / Laravel)  
 - **Base de données** : MySQL / PostgreSQL / MongoDB  
-- **Hébergement** : OVH / AWS / DigitalOcean  
+- **Hébergement** : Serveur NAS
 - **Intégration** : Instagram, TikTok, SEO optimisé  
 
 ---
